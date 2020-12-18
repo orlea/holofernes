@@ -1,0 +1,3 @@
+"id", "surname", "givenname", "path", "domain", "password", "groups"
+"s_shiogi", "萩原", "子荻", "OU=TEST-OU,DC=lab-ad,DC=example,DC=co,DC=jp", "lab-ad.example.co.jp", "P@ssw0rd", "TEST_システム部,TEST_人事部"
+"j_aikawa", "哀川", "順", "OU=TEST-OU,DC=lab-ad,DC=example,DC=co,DC=jp", "lab-ad.example.co.jp", "P@ssw0rd", "TEST_総務部"
