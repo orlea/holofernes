@@ -1,6 +1,10 @@
 # holofernes
 ActiveDirectoryへのユーザ追加とグループ設定を行うPoShスクリプトです。
 
+_2021/01/12更新_
+
+workgroup環境用の類似スクリプトを作成しました。
+
 ## Usage
 
 1. userlist-sample.csvを例にuserlist.csvを作成
@@ -13,3 +17,4 @@ ActiveDirectoryへのユーザ追加とグループ設定を行うPoShスクリ�
 - OUとグループはあらかじめ作成しておく必要があります
 - グループ名に`,`が入っているグループを扱う場合はスクリプト改造してください
 - エラー処理の欠如
+- 明示的にリストへ記入しなければUsersには入らない
